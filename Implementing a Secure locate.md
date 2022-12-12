@@ -5,9 +5,6 @@
 ### Codigo 1
 ```bash
 #!/bin/bash
-
-#TENEMOS QUE EJECUTARLO CON ROOT#
-
 locatedb="/var/locate.db"
 slocatedb=".slocatedb"
 
